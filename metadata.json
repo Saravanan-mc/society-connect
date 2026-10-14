@@ -1,0 +1,6 @@
+{
+  "name": "Society Connect",
+  "description": "A residential society and community management app with notices, complaints, visitor passes, maintenance tracking, and emergency directory with JSON persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
